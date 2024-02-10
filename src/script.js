@@ -54,6 +54,8 @@ function searchSubmit(event) {
 function displayForecast() {
   let forecast = document.querySelector("#forecast");
 
+  let days = ["Tue", "Wed", "Thu", "Fri", "Sat"];
+
   forecast.innerHTML = `
         <div class="weather-forecast-day">
           <div class="weather-forecast-date">Thu</div>
