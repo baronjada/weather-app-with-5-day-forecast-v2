@@ -1,1 +1,1 @@
-Updated version which uses html injected from script.js file, built using vanilla JS.
+Uses html injected from script.js file, built using vanilla JS.
